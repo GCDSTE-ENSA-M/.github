@@ -14,7 +14,7 @@
 
 ### 🛠️ What We Do
 
-**Competitions** — We organize Capture the Flag events, including **ROOT for GLORY**.  
+**Competitions** — We organize Capture the Flag events. 
 **Workshops** — We run hands-on sessions and share resources for students who want to get started.  
 **Student Projects** — We work on cybersecurity, embedded systems, and networking projects.
 
