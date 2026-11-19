@@ -4,7 +4,17 @@
 - Featured event **ROOT for GLORY 2026**
 
 - 📫 Contact **gcdsteclub@gmail.com**
+## About us
 
+GCSTE ENSA-M is a student club at ENSA Marrakech. We bring students
+together to practice cybersecurity, build embedded systems, and explore
+telecommunications through hands-on projects.
+
+## What we do
+
+- **Competitions** — We organize Capture the Flag events, including **ROOT for GLORY**.
+- **Workshops** — We run hands-on sessions and share resources for students who want to get started.
+- **Student projects** — We work on cybersecurity, embedded systems, and networking projects.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gcdste ensa marrakech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gcdste ensa marrakech" height="30" width="40" /></a>
